@@ -1,0 +1,11 @@
+{
+  "dev": {
+    "base_url": "https://www.saucedemo.com"
+  },
+  "stage": {
+    "base_url": "https://www.saucedemo.com"
+  },
+  "prod": {
+    "base_url": "https://www.saucedemo.com"
+  }
+}
